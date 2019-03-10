@@ -10,3 +10,18 @@ p{
 body{
     background-color: beige
 }
+.cpage{
+    background-color:blanchedalmond;
+}
+.list{
+    font-family:sans-serif;
+}
+.ctitle{
+    font-family:cursive;
+}
+.body-text{
+    font-family:sans-serif;
+}
+.list{
+    color:maroon;
+}
