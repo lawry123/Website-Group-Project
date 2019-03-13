@@ -1,0 +1,41 @@
+header ul {
+	text-align: center;
+}
+
+header ul li {
+	display: inline-block;
+	padding: 50; ;
+}
+
+h1 {
+	text-align: center;
+}
+
+main ul li {
+	width: 500;
+}
+
+div p {
+	text-align: center;
+}
+
+.students_container {
+	text-align: center;
+}
+
+.student_li {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.student_image {
+	width: 400;	
+}
+
+.student_name {
+	font-weight: bold;
+}
+
+.student_description {
+	font-style: italic;
+}
